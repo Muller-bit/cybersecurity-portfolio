@@ -33,6 +33,11 @@ Welcome! This repository documents my hands-on labs, network architecture design
 
 ---
 
+## 04. SecOps & Log Analysis
+
+- [SQL Log Investigation](./04-secops-and-log-analysis/sql-log-investigation) - Analyzing login logs and timeline alignment.
+- [SQL Database Filtering & Asset Management](./04-secops-and-log-analysis/sql-filtering-analysis) - MariaDB queries for patch management, departmental audits, and location-based incident response.
+
 ## 📜 Key Technical Skills & Tools
 
 | Category                    | Tools & Protocols                                                  |
